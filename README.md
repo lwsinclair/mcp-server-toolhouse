@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/toolhouse-community-mcp-server-toolhouse-badge.png)](https://mseep.ai/app/toolhouse-community-mcp-server-toolhouse)
+
 # Toolhouse MCP Server
 
 ![Toolhouse MCP Server implementation](assets/mcp-server-toolhouse-banner.svg)
